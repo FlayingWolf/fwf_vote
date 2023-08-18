@@ -9,12 +9,12 @@ Config = {
     },
     webhook = "YOUR_WEBHOOK",
     thumbnail = "YOUR_LOGO",
-    name = {--voting locations, default is with gabz townhall
+    name = {--Name of candidates
         candidate1 = 'Candidate 1',
         candidate2 = 'Candidate 2',
         candidate3 = 'Candidate 3',
     },
-    image = {--voting locations, default is with gabz townhall
+    image = {--Images of the candidates
         candidate1 = 'https://i.imgur.com/4MCzeEZ.png',
         candidate2 = 'https://i.imgur.com/4MCzeEZ.png',
         candidate3 = 'https://i.imgur.com/4MCzeEZ.png',
